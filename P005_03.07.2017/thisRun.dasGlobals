@@ -1,0 +1,11 @@
+{
+   "$app" : "1.5.0.353.170501.1700.p.5062a7c",
+   "$apprun" : "5a34228a-a9ce-4673-b72a-70a8f5c4df46",
+   "$group" : "0xbeef000004c0ae5b",
+   "$messv" : "2",
+   "$phone" : "Android OS-Lenovo TB3-710F-5.0.1-Lenovo_TB3-710F_S000026",
+   "$phys" : "0xbeef000000040880ae92",
+   "$platform" : "android",
+   "$product" : "cozmo",
+   "$unit" : "fb8b2a1f-bef8-43eb-bcb9-8024c8939235"
+}
